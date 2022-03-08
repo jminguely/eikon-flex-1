@@ -14,12 +14,15 @@
   flex-direction: column-reverse;
 }
 /* 4. exercice-direction-2 */
-.exercice exercice-direction-2 .container {
+.exercice-direction-3 .container {
   display: flex;
-  flex-direction: column;
+  flex-direction: row-reverse;
 }
 
 /* 5. exercice-wrap-1 */
+.exercice-wrap-1 .container {
+  display: flex;
+  flex-direction: nowrap;
 
 /* 6. exercice-wrap-2 */
 
