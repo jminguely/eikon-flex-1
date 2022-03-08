@@ -6,16 +6,25 @@
 /* 2. exercice-direction-1 */
 .exercice-direction-1 .container {
   flex-direction: column;
+  display: flex;
 }
 
 /* 3. exercice-direction-2 */
 .exercice-direction-2 .container {
   flex-direction: column-reverse;
+  display: flex;
 }
 /* 4. exercice-direction-2 */
-
+.exercice-direction-3 .container {
+  flex-direction: row-reverse;
+  display: flex;
+}
 /* 5. exercice-wrap-1 */
-
+.exercice-wrap-1 .container {
+  flex-wrap: nowrap;
+  flex-direction: row;
+  display: flex;
+}
 /* 6. exercice-wrap-2 */
 
 /* 7. exercice-wrap-3 */
