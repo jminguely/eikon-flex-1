@@ -9,6 +9,8 @@
 }
 
 /* 3. exercice-direction-2 */
+.exercice-direction-2 .container {
+  flex-direction: column-reverse;
 
 /* 4. exercice-direction-2 */
 
