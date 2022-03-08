@@ -32,5 +32,14 @@
   flex-wrap: wrap;
 }
 /* 7. exercice-wrap-3 */
-
+.exercice-wrap-3 .container {
+  display: flex;
+  flex-direction: row;
+flex-wrap: wrap-reverse;
+}
 /* 8. all-in */
+.exercice-all-in .container {
+  display: flex;
+  flex-direction: row-reverse;
+flex-wrap: wrap-reverse;
+}
