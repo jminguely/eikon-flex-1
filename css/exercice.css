@@ -31,5 +31,9 @@
   display: flex;
 }
 /* 7. exercice-wrap-3 */
-
+.exercice-wrap-3 .container {
+  /* flex-direction: row-reverse; */
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
 /* 8. all-in */
