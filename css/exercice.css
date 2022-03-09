@@ -4,7 +4,7 @@
 }
 
 /* 2. exercice-direction-1 */
-.exercice-directiion-1 .container {
+.exercice-direction-1 .container {
   display: flex;
   flex-direction: column;
 }
